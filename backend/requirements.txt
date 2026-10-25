@@ -9,3 +9,4 @@ uvicorn
 groq
 
 livekit-plugins-groq
+gunicorn
